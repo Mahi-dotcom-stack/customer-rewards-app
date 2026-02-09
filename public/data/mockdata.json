@@ -1,0 +1,52 @@
+[
+  { "customerId": "CUST001", "customerName": "Mahesh", "date": "2026-01-05", "amount": 120 },
+  { "customerId": "CUST001", "customerName": "Mahesh", "date": "2026-01-15", "amount": 75.5 },
+  { "customerId": "CUST001", "customerName": "Mahesh", "date": "2026-01-28", "amount": 200 },
+  { "customerId": "CUST001", "customerName": "Mahesh", "date": "2026-02-10", "amount": 85 },
+  { "customerId": "CUST001", "customerName": "Mahesh", "date": "2026-02-22", "amount": 150.75 },
+  { "customerId": "CUST001", "customerName": "Mahesh", "date": "2026-03-03", "amount": 45 },
+  { "customerId": "CUST001", "customerName": "Mahesh", "date": "2026-03-18", "amount": 250 },
+  { "customerId": "CUST001", "customerName": "Mahesh", "date": "2026-03-25", "amount": 110.25 },
+
+  { "customerId": "CUST002", "customerName": "Ravi", "date": "2026-01-08", "amount": 95 },
+  { "customerId": "CUST002", "customerName": "Ravi", "date": "2026-01-20", "amount": 130 },
+  { "customerId": "CUST002", "customerName": "Ravi", "date": "2026-02-05", "amount": 60 },
+  { "customerId": "CUST002", "customerName": "Ravi", "date": "2026-02-14", "amount": 175.5 },
+  { "customerId": "CUST002", "customerName": "Ravi", "date": "2026-02-28", "amount": 40 },
+  { "customerId": "CUST002", "customerName": "Ravi", "date": "2026-03-10", "amount": 215 },
+  { "customerId": "CUST002", "customerName": "Ravi", "date": "2026-03-27", "amount": 80.75 },
+
+  { "customerId": "CUST003", "customerName": "Priya", "date": "2026-01-12", "amount": 180 },
+  { "customerId": "CUST003", "customerName": "Priya", "date": "2026-02-02", "amount": 220 },
+  { "customerId": "CUST003", "customerName": "Priya", "date": "2026-02-18", "amount": 105 },
+  { "customerId": "CUST003", "customerName": "Priya", "date": "2026-03-08", "amount": 290.5 },
+  { "customerId": "CUST003", "customerName": "Priya", "date": "2026-03-22", "amount": 50 },
+
+  { "customerId": "CUST004", "customerName": "Rajesh", "date": "2026-01-10", "amount": 145 },
+  { "customerId": "CUST004", "customerName": "Rajesh", "date": "2026-01-25", "amount": 70 },
+  { "customerId": "CUST004", "customerName": "Rajesh", "date": "2026-02-08", "amount": 160 },
+  { "customerId": "CUST004", "customerName": "Rajesh", "date": "2026-03-05", "amount": 95.5 },
+  { "customerId": "CUST004", "customerName": "Rajesh", "date": "2026-03-20", "amount": 300 },
+
+  { "customerId": "CUST005", "customerName": "Anita", "date": "2026-01-07", "amount": 88 },
+  { "customerId": "CUST005", "customerName": "Anita", "date": "2026-02-11", "amount": 140 },
+
+  { "customerId": "CUST006", "customerName": "Suresh", "date": "2026-01-18", "amount": 210 },
+  { "customerId": "CUST006", "customerName": "Suresh", "date": "2026-03-14", "amount": 65 },
+
+  { "customerId": "CUST007", "customerName": "Deepa", "date": "2026-02-20", "amount": 175 },
+  { "customerId": "CUST008", "customerName": "Karan", "date": "2026-03-02", "amount": 230 },
+  { "customerId": "CUST009", "customerName": "Meena", "date": "2026-03-18", "amount": 55 },
+  { "customerId": "CUST010", "customerName": "Vikram", "date": "2026-01-29", "amount": 125 },
+  { "customerId": "CUST011", "customerName": "Sneha", "date": "2026-02-06", "amount": 99.99 },
+  { "customerId": "CUST012", "customerName": "Naveen", "date": "2026-02-25", "amount": 260 },
+  { "customerId": "CUST013", "customerName": "Rita", "date": "2026-01-21", "amount": 48 },
+  { "customerId": "CUST014", "customerName": "Adithya", "date": "2026-03-09", "amount": 310 },
+  { "customerId": "CUST015", "customerName": "Bhuvana", "date": "2026-02-13", "amount": 77 },
+  { "customerId": "CUST016", "customerName": "Chirag", "date": "2026-03-23", "amount": 145.5 },
+  { "customerId": "CUST017", "customerName": "Divya", "date": "2026-01-30", "amount": 205 },
+  { "customerId": "CUST018", "customerName": "Eshaan", "date": "2026-02-17", "amount": 134 },
+  { "customerId": "CUST019", "customerName": "Farah", "date": "2026-03-11", "amount": 59 },
+
+  { "customerId": "CUST020", "customerName": "Gaurav", "date": "2026-03-27", "amount": 420 }
+]
